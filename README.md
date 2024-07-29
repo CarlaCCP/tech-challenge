@@ -27,4 +27,5 @@ Esse processo promove o pedido para o status "Em preparação".
 - http://localhost:31301/swagger-ui/index.html (Pagamentos)
 
 ## Arquitetura do sistema
-<img width="729" alt="image" src="https://github.com/user-attachments/assets/9e9c3b7d-978c-49dc-862a-9015fb6e9e0f">
+![WhatsApp Image 2024-07-29 at 16 10 17](https://github.com/user-attachments/assets/09d94748-ccc4-4173-ac9f-cae6d0f0fc8d)
+
