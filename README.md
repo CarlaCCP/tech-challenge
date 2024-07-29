@@ -29,3 +29,6 @@ Esse processo promove o pedido para o status "Em preparação".
 ## Arquitetura do sistema
 ![WhatsApp Image 2024-07-29 at 16 10 17](https://github.com/user-attachments/assets/09d94748-ccc4-4173-ac9f-cae6d0f0fc8d)
 
+## Video demonstrando a arquitetura desenvolvida
+https://www.youtube.com/watch?v=eDxyCAmyhk8
+
